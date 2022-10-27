@@ -1,0 +1,145 @@
+[
+  {
+    "component": {
+      "id": "events",
+      "label": "Events",
+      "desc": "Flows."
+    },
+    "permissions": ["View"]
+  },
+  {
+    "component": {
+      "id": "mp",
+      "label": "Marketplace",
+      "desc": "Flows."
+    },
+    "permissions": ["View", "Modify"]
+  },
+  {
+    "component": {
+      "id": "stats",
+      "label": "Datahub",
+      "desc": "Flows."
+    },
+    "permissions": ["Modify", "View"]
+  },
+  {
+    "component": {
+      "id": "analytics",
+      "label": "Analytics",
+      "desc": "Flows."
+    },
+    "permissions": ["Modify", "View"]
+  },
+  {
+    "component": {
+      "id": "dh",
+      "label": "Device Hub",
+      "desc": "Flows."
+    },
+    "permissions": [
+      "View",
+      "ViewDevices",
+      "ViewDrivers",
+      "ViewTags",
+      "Modify",
+      "ModifyDevices",
+      "ModifyTags"
+    ]
+  },
+  {
+    "component": {
+      "id": "dm",
+      "label": "Device Management",
+      "desc": "Flows."
+    },
+    "permissions": ["Modify"]
+  },
+  {
+    "component": {
+      "id": "ftp",
+      "label": "FTP Server",
+      "desc": "Flows."
+    },
+    "permissions": ["Modify", "View"]
+  },
+  {
+    "component": {
+      "id": "nd",
+      "label": "Network Discovery",
+      "desc": "Flows."
+    },
+    "permissions": ["View", "Modify"]
+  },
+  {
+    "component": {
+      "id": "opcua",
+      "label": "OPCUA Server",
+      "desc": "Flows."
+    },
+    "permissions": ["View", "Modify"]
+  },
+  {
+    "component": {
+      "id": "access",
+      "label": "Access",
+      "desc": "Flows."
+    },
+    "permissions": ["Modify", "View"]
+  },
+  {
+    "component": {
+      "id": "cc",
+      "label": "Integrations",
+      "desc": "Flows."
+    },
+    "permissions": [
+      "Modify",
+      "ModifyConnectors",
+      "ModifyTopics",
+      "View",
+      "ViewConnectors",
+      "ViewTopics"
+    ]
+  },
+  {
+    "component": {
+      "id": "dl",
+      "label": "Downloads",
+      "desc": "Flows."
+    },
+    "permissions": ["View"]
+  },
+  {
+    "component": {
+      "id": "lic",
+      "label": "Licensing",
+      "desc": "Flows."
+    },
+    "permissions": ["Modify"]
+  },
+  {
+    "component": {
+      "id": "auth",
+      "label": "Auth",
+      "desc": "Flows."
+    },
+    "permissions": ["Modify"]
+  },
+  {
+    "component": {
+      "id": "dt",
+      "label": "Digital Twin",
+      "desc": "Flows."
+    },
+    "permissions": ["Modify", "View"]
+  },
+  {
+    "component": {
+      "id": "flows",
+      "label": "Flows",
+      "desc": "Flows."
+    },
+    "permissions": ["Modify", "View"]
+  }
+]
